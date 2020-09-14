@@ -54,3 +54,28 @@ Due to overheat protection, CPU performance might be slower that expected on per
 |  512 |         7         |        479        |
 | 1024 |         15        |        946        |
 | 2048 |         30        |        1857       |
+
+## Render Result Reference
+
+The following gallery displays resulting image under different SPP settings.
+
+### 16 SPP
+![Rendered image at 16 spp](./images/16-spp.png)
+
+### 32 SPP
+![Rendered image at 32 spp](./images/32-spp.png)
+
+### 64 SPP
+![Rendered image at 64 spp](./images/64-spp.png)
+
+### 128 SPP
+![Rendered image at 128 spp](./images/128-spp.png)
+
+### 256 SPP
+![Rendered image at 256 spp](./images/256-spp.png)
+
+### 1024 SPP
+![Rendered image at 1024 spp](./images/1024-spp.png)
+
+### 2048 SPP
+![Rendered image at 2048 spp](./images/2048-spp.png)
