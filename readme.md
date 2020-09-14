@@ -60,7 +60,7 @@ Due to overheat protection, CPU performance might be slower that expected on per
 The following gallery displays resulting image under different SPP settings.
 
 ### 16 SPP
-![Rendered image at 16 spp](images/16-spp.png)
+![Rendered image at 16 spp](./images/16-spp.png)
 
 ### 32 SPP
 ![Rendered image at 32 spp](images/32-spp.png)
